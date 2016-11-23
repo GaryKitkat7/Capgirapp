@@ -27,10 +27,10 @@ public class CustomizeCodeActivity extends AppCompatActivity {
         ButterKnife.bind(this);
 
         widget.setShowOtherDates(MaterialCalendarView.SHOW_ALL);
-        widget.setArrowColor(getResources().getColor(R.color.sample_primary));
+        widget.setArrowColor(getResources().getColor(R.color.app_primary));
         widget.setLeftArrowMask(getResources().getDrawable(R.drawable.ic_navigation_arrow_back));
         widget.setRightArrowMask(getResources().getDrawable(R.drawable.ic_navigation_arrow_forward));
-        widget.setSelectionColor(getResources().getColor(R.color.sample_primary));
+        widget.setSelectionColor(getResources().getColor(R.color.app_primary));
         widget.setHeaderTextAppearance(R.style.TextAppearance_AppCompat_Medium);
         widget.setWeekDayTextAppearance(R.style.TextAppearance_AppCompat_Medium);
         widget.setDateTextAppearance(R.style.CustomDayTextAppearance);
