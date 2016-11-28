@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "869965681326",
+    "firebase_url": "https://capgirapp-b5a45.firebaseio.com",
+    "project_id": "capgirapp-b5a45",
+    "storage_bucket": "capgirapp-b5a45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869965681326:android:bd201296adcae3f6",
+        "android_client_info": {
+          "package_name": "com.example.mmontonv.pruebafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869965681326-nel2cuo6r0vvp9herkg9ep3cpank195i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-I8EkL5wxlaxsLuawMg6Ha_7waTI_hjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

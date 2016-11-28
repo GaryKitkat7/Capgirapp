@@ -1,0 +1,98 @@
+Aplicación con FireBase:
+
+Esta aplicación muestra automáticamente lo que se ha modificado en la base de datos FireBase en tiempo real.
+
+Para hacerla se han seguido los siguientes pasos:
+
+	- Creación de un proyecto nuevo.
+	- Dentro del proyecto en los archivos build.gradle:
+		
+		- En el archivo build.gradle del proyecto copiamos las siguientes líneas que sirven para añadir los servicios de Google play:
+			
+			dependencies {
+                classpath 'com.google.gms:google-services:3.0.0'//Línea que se ha de copiar en dependencies de build.gradle
+				}
+		- En el archivo build.gradle de la aplicación copiamoslas siguientes líneas que sirven para
+
+			dependencies {
+				compile fileTree(dir: 'libs', include: ['*.jar'])
+				androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+					exclude group: 'com.android.support', module: 'support-annotations'
+				})
+				compile 'com.android.support:appcompat-v7:25.0.0'
+				testCompile 'junit:junit:4.12'
+				compile 'com.google.firebase:firebase-core:9.6.1'// Línea que se ha de copiar en dependenciesde build.gradle
+				compile 'com.google.firebase:firebase-database:9.6.1' // Línea que se ha de copiar en dependenciesde build.gradle
+			}
+			apply plugin: 'com.google.gms.google-services' // Línea que se ha de copiar al final del archivo (aplica el plugin de los servicios de Google play)
+			
+	- Creación de la app:
+	
+		- Layout:
+		
+			- Añadimos un plain text al relative layout.
+			- Modificamos el texto y el id. En este caso se ha puesto Condition y tvCondition respectivamente.
+		
+		- Main Activity (PruebaFireBaseActivity):
+		
+			- Agregamos como propiedades: TextView mConditionTextView; // Declaración que apunta al TextView del layout
+			- Dentro del método onCreate añadimos: mConditionTextView = (TextView) findViewById(R.id.tvCondition); //Con esto relaciona el layoutcon el onCreate
+			- Creamos una referencia a la BBDD para poder comunicarnos con ella: DatabaseReference mRootRef = FirebaseDatabase.getInstance().getReference();
+			// Con esta línea referenciamos a la raíz del árbol FireBase JSON.
+			- Para escuchar los cambios en la BBDD creamos un Value Listener en el método onStartLifeCycle. 
+			
+				Override
+				protected void onStart(){
+					super.onStart();
+				}
+				
+			- Creamos una referencia child como propiedad(debajo de TextView mConditionTextView): DatabaseReference mConditionRef = mRootRef.child("condition");
+			// Al llamar child en la raiz creamos una ubicación condition bajo las raices. Después se le añade un valor (Valor que se ponga en la BBDD)
+			- Creamos un listener en onStart invocando al método addValueEventListener:
+			
+				mConditionRef.addValueEventListener(new ValueEventListener() {
+				@Override
+				public void onDataChange(DataSnapshot dataSnapshot) {
+				
+				}
+
+				@Override
+				public void onCancelled(DatabaseError databaseError) {
+
+				}
+				});
+				
+				Los dos métodos creados están dentro de la clase embebida anónima. El primero es onDataChange y este se ejecutará cada vez que se actualicen los 
+				valores de la condición en la BBDD en tiempo real. El segundo, onCancelled, es para los casos de error.
+				Dentro de onDataChange obtenemos el retorno de nuestros datos como dataSnapshot.Este contiene los datos y otros métodos útiles.
+				
+			- Usamos el dataSnapshot y lo sincronizamos con el TextView. Para ello creamos un String para obtener los datos devueltos y actualizamos el 
+			TextView con los datos obtenidos:
+			
+				public void onDataChange(DataSnapshot dataSnapshot) {
+					String text = dataSnapshot.getValue(String.class); // String que almacena los datos retornados.
+					mConditionTextView.setText(text); // Volcamos los datos en el TextView
+				}
+			
+	- Cambiar las normas de seguridad: 
+	
+		- Para esta aplicación no se requiere normas de seguridad de lectura, ya que es una prueba. 
+		- Para modificar estas normas de seguridad vamos a la consola de firebase, a nuestra aplicación y por último a la base de datos.
+		- Aquí encontramos una pestaña con el título "REGLAS". Entramos en ella.
+		- Una vez dentro nos aparece lo siguiente:
+		
+			{
+			  "rules": {
+				".read": "auth != null",
+				".write": "auth != null"
+			  }
+			}
+			
+			Esto nos indica que no podemos leer ni escribir en la base de datos si la autorización de la aplicación/usuario no es distinta de null.
+			
+		- Para arreglar esto y que podamos leer de la base de datos sin necesidad de la autorización cambiamos: ".read": true. Con esto no hacen
+		falta permisos para leer de la BBDD.
+		- En fases más avanzadas del proyecto se deberán actualizar estas reglas para que las diferentes clases de usuarios puedan acceder a la información.
+		
+		
+Para ver la referencia que he seguido: https://www.youtube.com/watch?v=lpFDFK44pX8
