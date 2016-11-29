@@ -1,0 +1,7 @@
+#Mon Nov 28 20:24:57 CET 2016
+base.0=/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fcb1de2cac3c5694fb1a5194e846e7f4d94f2c76
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a565517d1bba2548f7a455e8ab80349cb1ec5283/classes.dex
+base.1=/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a565517d1bba2548f7a455e8ab80349cb1ec5283
+file.0=/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fcb1de2cac3c5694fb1a5194e846e7f4d94f2c76/classes.dex

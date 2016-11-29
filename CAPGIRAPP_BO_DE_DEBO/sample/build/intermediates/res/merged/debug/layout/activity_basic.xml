@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/Principal_page"
+    tools:context=".BasicActivity"
+    >
+
+    <com.prolificinteractive.materialcalendarview.MaterialCalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/barra_inf"
+        android:layout_alignParentBottom="true"
+        >
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="90sp"
+            android:layout_gravity="center"
+            android:padding="5dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_weight="1"
+            android:background="@color/app_background_light"/>
+
+        <Button
+            android:text="@string/num_events"
+            android:textSize="60sp"
+            android:background="@color/app_primary"
+            android:textColor="#FFFFFF"
+            android:layout_width="90sp"
+            android:layout_height="90sp"
+            android:id="@+id/button"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

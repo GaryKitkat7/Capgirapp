@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_2291ea840c7e90e2c558a7ad13fe2d4aa756ae1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2f74879a2d5e1ca48dc13a825b7cf36644071651">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a565517d1bba2548f7a455e8ab80349cb1ec5283/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e58fa1d2669f53201a667b8b5c8a6f3b972c176b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b96d610af51d2cf7759c4b96857a8d419ba000be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_b8b270029b310d1cb04ea8b6b0981ee5f8bdefd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4f393e555ea26fa60914a5cad1088d38b86305b">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fcb1de2cac3c5694fb1a5194e846e7f4d94f2c76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_3d9bbfb7e244c5bd74c6a0c0a9a3d8323e8ac19c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_f0517f5f97c18cb02f089d2985f11842477efa55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_11046e28a237ab78cb93fad360af79c3e154a445/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_99dbe6b9f58c9bda2555ea94c3c3ceb6b1dbc303/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_99776266fc1db6f5520ce512c62c75e08abaa2c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_ec544587a89ccd908f445fd0a1b6ace2a2fc6c89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_48cd0f21c19c6e46aff327020fc452f49c79c716/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_ea02a421273bd084e0ae164cb0e65fa81e38160f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_c9e815e1bdf5a4c5801adffbf23d8f280c31f6ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8d0287a7fe08a5a843a028c2ad7c3c4aa1e1fea9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2d4d94645b4471df06389ad3b10b129d38f91689/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_6913c1426f3589f5904df1cf2204b3e33d463c2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4af5273ba5313e3d502607250cc387a1a83333f2/classes.dex" />
+    </item>
+
+</items>

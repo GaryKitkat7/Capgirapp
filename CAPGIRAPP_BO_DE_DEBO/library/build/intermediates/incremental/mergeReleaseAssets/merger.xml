@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/src/main/assets"/><source path="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/src/release/assets"/></dataSet></merger>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/build/intermediates/res/merged/release/color/mcv_text_date_light.xml",
+        "source": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/src/main/res/color/mcv_text_date_light.xml"
+    },
+    {
+        "merged": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/build/intermediates/res/merged/release/color/mcv_text_date_light.xml",
+        "source": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/src/main/res/color/mcv_text_date_light.xml"
+    },
+    {
+        "merged": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/build/intermediates/res/merged/release/color/mcv_text_date_dark.xml",
+        "source": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/src/main/res/color/mcv_text_date_dark.xml"
+    },
+    {
+        "merged": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/build/intermediates/res/merged/release/color/mcv_text_date_dark.xml",
+        "source": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/src/main/res/color/mcv_text_date_dark.xml"
+    }
+]
