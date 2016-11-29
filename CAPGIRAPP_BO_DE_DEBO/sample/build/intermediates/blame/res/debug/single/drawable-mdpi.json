@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/res/merged/debug/drawable-mdpi/ic_navigation_arrow_back.png",
+        "source": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/src/main/res/drawable-mdpi/ic_navigation_arrow_back.png"
+    },
+    {
+        "merged": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/res/merged/debug/drawable-mdpi/ic_navigation_arrow_forward.png",
+        "source": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/src/main/res/drawable-mdpi/ic_navigation_arrow_forward.png"
+    },
+    {
+        "merged": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/build/intermediates/res/merged/debug/drawable-mdpi/ic_my_selector.png",
+        "source": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/sample/src/main/res/drawable-mdpi/ic_my_selector.png"
+    }
+]

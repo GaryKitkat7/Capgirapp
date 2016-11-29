@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/mcv_action_next.png",
+        "source": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/mcv_action_next.png"
+    },
+    {
+        "merged": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/mcv_action_previous.png",
+        "source": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/mcv_action_previous.png"
+    },
+    {
+        "merged": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/mcv_action_previous.png",
+        "source": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/mcv_action_previous.png"
+    },
+    {
+        "merged": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/mcv_action_next.png",
+        "source": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/mcv_action_next.png"
+    }
+]

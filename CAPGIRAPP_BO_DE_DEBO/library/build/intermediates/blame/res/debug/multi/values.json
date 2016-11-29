@@ -1,0 +1,290 @@
+[
+    {
+        "outputFile": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2043,
+                    "endColumn": 38,
+                    "endOffset": 2077
+                },
+                "from": {
+                    "file": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 39,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2082,
+                    "endColumn": 45,
+                    "endOffset": 2123
+                },
+                "from": {
+                    "file": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 45,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2128,
+                    "endColumn": 43,
+                    "endOffset": 2167
+                },
+                "from": {
+                    "file": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 43,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2172,
+                    "endColumn": 51,
+                    "endOffset": 2219
+                },
+                "from": {
+                    "file": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2224,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2469
+                },
+                "from": {
+                    "file": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2474,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2699
+                },
+                "from": {
+                    "file": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2704,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2879
+                },
+                "from": {
+                    "file": "/Users/alexplanasobany/Documents/Capgirapp/CAPGIRAPP_BO_DE_DEBO/library/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 737
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2043,
+                    "endColumn": 38,
+                    "endOffset": 2077
+                },
+                "from": {
+                    "file": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 39,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2082,
+                    "endColumn": 45,
+                    "endOffset": 2123
+                },
+                "from": {
+                    "file": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 45,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2128,
+                    "endColumn": 43,
+                    "endOffset": 2167
+                },
+                "from": {
+                    "file": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 43,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2172,
+                    "endColumn": 51,
+                    "endOffset": 2219
+                },
+                "from": {
+                    "file": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2224,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2469
+                },
+                "from": {
+                    "file": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2474,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2649
+                },
+                "from": {
+                    "file": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2654,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2829
+                },
+                "from": {
+                    "file": "/home/gerard/Capgirapp/Capgirapp/CAPGIRAPP/library/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 687
+                    }
+                }
+            }
+        ]
+    }
+]
