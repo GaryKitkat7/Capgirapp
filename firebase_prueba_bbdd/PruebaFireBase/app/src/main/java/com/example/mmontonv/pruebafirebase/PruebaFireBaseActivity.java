@@ -13,6 +13,9 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class PruebaFireBaseActivity extends AppCompatActivity {
 
     TextView mConditionTextView;
@@ -20,7 +23,6 @@ public class PruebaFireBaseActivity extends AppCompatActivity {
     Button BotoGuardar;
     private String Condicio = "condition";
     int i = 0;
-    Llista lista;
 
     DatabaseReference mRootRef = FirebaseDatabase.getInstance().getReference();
     DatabaseReference mConditionRef = mRootRef.child(Condicio);
@@ -44,21 +46,18 @@ public class PruebaFireBaseActivity extends AppCompatActivity {
             public void onClick(View view) {
                 String Text = EditTextFB.getText().toString();
                 mConditionRef = mRootRef.child(Condicio+i);
-                if(!lista.Trobar(Text)){
-                    lista.Afegir(Text);
-                    mConditionRef.setValue(Text);
-                    mConditionTextView.setText(Text);
-                }
+                mConditionRef.setValue(Text);
+                mConditionTextView.setText(Text);
                 i++;
             }
 
-        });
+        });gi
 
         /*mConditionRef.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
-                String text = dataSnapshot.getValue(String.class);
-                mConditionTextView.setText(text);
+                List<String> Llistee = (ArrayList<String>) dataSnapshot.getValue();
+                mConditionTextView.setText(Llistee.size());
             }
 
             @Override
@@ -66,10 +65,6 @@ public class PruebaFireBaseActivity extends AppCompatActivity {
 
             }
         });*/
-
-
-
-
 
 
     }

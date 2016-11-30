@@ -16,7 +16,7 @@ public class Llista {
                 this.Trobat = true;
             }
         }
-        return true;
+        return Trobat;
     }
 
     public void Afegir (String text){
