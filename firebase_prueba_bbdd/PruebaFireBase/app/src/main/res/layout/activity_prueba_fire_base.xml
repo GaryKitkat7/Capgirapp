@@ -22,4 +22,22 @@
         android:layout_marginTop="26dp"
         android:id="@+id/tvCondition" />
 
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editTextFB"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_toStartOf="@+id/BotoGuardar" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/BotoGuardar"
+        android:layout_alignTop="@+id/editTextFB"
+        android:layout_alignParentEnd="true" />
+
 </RelativeLayout>
